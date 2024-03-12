@@ -1,6 +1,8 @@
 ---
 layout: post
-title: 'Lorem Ipsum'
+title: Lorem Ipsum
+nav_order: 2
+has_children: true
 ---
 
 Lorem Ipsum
