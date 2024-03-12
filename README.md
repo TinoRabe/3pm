@@ -5,11 +5,15 @@
 👋 Tino Rabe | 🎯 Expert in Microsoft Power Pages | 🚀 powerpages.pro
 
 ❗️ Working with Microsoft Power Pages since 2014 (former Adxstudio).
+
 🎯 On a mission to grow & contribute to the fantastic community of Power Pages.
 
  Follow me & join the tribe of POWER PAGES PRO (https://powerpages.pro)
-🧨 Weekly newsletter for all things new and exciting in the space of Microsoft Power Pages (https://www.linkedin.com/newsletters/7042949598436360192/) .
+ 
+🧨 Weekly newsletter for all things new and exciting in the space of Microsoft Power Pages (https://www.linkedin.com/newsletters/7042949598436360192/).
+
 🎧 Podcast with exciting topics, news & tips (https://open.spotify.com/show/1i4zG8k7jb6LUNz21wchlS).
+
 🎥 Youtube channel with quality content that grows your expertise in #powerpages (https://www.youtube.com/@PowerPagesPro).
 
 Reach out to me anytime ✌️
