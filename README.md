@@ -1,6 +1,4 @@
-# 3PM - 
-
-An open resource for Power Pages Project Management.
+# 3PM - An open resource for Power Pages Project Management
 
 ——————————————————————————————
 
