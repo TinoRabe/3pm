@@ -1,8 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Power Pages Pro - 3PM
+description: An open resource for Power Pages Project Management
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://tinorabe.github.io/3pm
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
