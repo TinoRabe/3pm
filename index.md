@@ -1,6 +1,7 @@
 ---
-title: Home
+title: 🎯 Start
 layout: home
+nav_order: 1
 ---
 
 Let's break down a typical Power Pages project into phases:
