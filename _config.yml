@@ -5,3 +5,8 @@ theme: just-the-docs
 url: https://tinorabe.github.io/3pm
 
 aux_links:
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "10.9.0"
