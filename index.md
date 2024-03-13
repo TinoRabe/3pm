@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-Business Case
+Let's break down a typical Power Pages project into phases:
 
 ```mermaid
 timeline

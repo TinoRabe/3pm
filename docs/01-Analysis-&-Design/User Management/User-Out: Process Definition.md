@@ -1,8 +1,9 @@
 ---
-title: 'User-In Process'
+title: 'User-Out Process'
 layout: default
-nav_order: 1
+parent: 'User Management'
+nav_order: 2
 has_children: false
 ---
 
-User-In: Process Definition
+User-Out: Process Definition
